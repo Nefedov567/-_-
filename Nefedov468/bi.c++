@@ -1,5 +1,5 @@
-    #include <queue> //Подключение библиотеки для работы с очередями, включая priority_queue (очередь с приоритетом)
-    #include <iostream> //Подключение библиотеки для ввода-вывода (используется std::cout и std::endl)
+    #include <queue> // Подключение библиотеки для работы с очередями, включая priority_queue (очередь с приоритетом)
+    #include <iostream> // Подключение библиотеки для ввода-вывода (используется std::cout и std::endl)
 
     int main() {
         std::priority_queue<int> pq; // Max-куча по умолчанию
